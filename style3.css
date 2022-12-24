@@ -1,0 +1,18 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(196, 179, 179);
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: #5fc0ec;
+    display: flex;
+    padding: 40px 0px 45px 45px;
+}
